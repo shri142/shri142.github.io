@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.29bc8131.css",
-    "main.js": "/static/js/main.304ae5af.js",
+    "main.js": "/static/js/main.c80ae785.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/Resume_Shrikrishna_Umbare.pdf": "/static/media/Resume_Shrikrishna_Umbare.f8671246419a6ff68a3e.pdf",
+    "static/media/Resume_Shrikrishna_Umbare.pdf": "/static/media/Resume_Shrikrishna_Umbare.419793a31e6d17a72c58.pdf",
     "static/media/TrainBrain2.jpg": "/static/media/TrainBrain2.98348a0d62f7b67e11b2.jpg",
     "static/media/dr.PNG": "/static/media/dr.ad1bbdeff681aa19eeaf.PNG",
     "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
@@ -17,12 +17,12 @@
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
     "main.29bc8131.css.map": "/static/css/main.29bc8131.css.map",
-    "main.304ae5af.js.map": "/static/js/main.304ae5af.js.map",
+    "main.c80ae785.js.map": "/static/js/main.c80ae785.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29bc8131.css",
-    "static/js/main.304ae5af.js"
+    "static/js/main.c80ae785.js"
   ]
 }
