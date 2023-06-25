@@ -7,6 +7,7 @@ import pass from "../../Assets/Projects/pass.PNG";
 import TrainBrain2 from "../../Assets/Projects/TrainBrain2.jpg";
 import workInProgress from "../../Assets/Projects/workInProgress.PNG";
 import dr from "../../Assets/Projects/dr.PNG";
+import simon from "../../Assets/Projects/simon.jpg"
 
 function Projects() {
   return (
@@ -68,11 +69,12 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={workInProgress}
+              imgPath={simon}
               isBlog={false}
-              title="Gibberish"
-              description="A secure chat application using flutter and firebase with customised features, WORK IN PROGRESS"
-              ghLink="https://github.com/shri142"
+              title="Simons-game"
+              description="Simons-game created using jquery, players must replicate a sequence of colors by clicking the corresponding buttons in the correct order."
+              ghLink="https://github.com/shri142/simons-game"
+              demoLink=" https://shri142.github.io/simons-game/"
               
             />
           </Col>
