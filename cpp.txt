@@ -1,0 +1,37 @@
+#include <bits/stdc++.h>
+#define ll long long
+#define pb push_back
+#define len(s) (int)(s.size())
+#define MOD 1000000007 // Modulo constant: Used for operations needing MOD
+
+// Macros for bit manipulation
+#define msb(a) (__lg(a)) // Most significant bit
+#define lsb(a) ((ll)(log2(a & -a))) // Least significant bit
+
+// Macros for loops
+#define fori(i,n) for (int i = 0; i < n; i++)
+
+// Macros for vector operations
+#define lb(x,val) lower_bound(x.begin(),x.end(),val)
+#define ub(x,val) upper_bound(x.begin(),x.end(),val)
+#define srt(x)  sort(x.begin(),x.end()) // Sort in ascending order
+#define SRT(x)  sort(x.begin(),x.end(),greater<ll>()) // Sort in descending order
+
+using namespace std;
+
+//Actual code starts here
+
+void solve() {
+   
+}
+
+int main() {    
+    int t;
+    cin >>t;
+
+    while (t--) {
+        solve(); 
+    }
+
+    return 0;
+}
