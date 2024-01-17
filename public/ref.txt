@@ -1,0 +1,21 @@
+Hello {name},
+I am Shrikrishna Umbare, a Final-Year engineering student, I am looking for a Full-Time Job opportunity at {company name}, There is an opening of {job opening}, which I am interested in. Could you please refer me for that position?
+
+About Me - I have strong problem-solving skills, I have a strong understanding of Data Structures and Algorithm, I have done several internships, one at Etihad Holidays as a web developer intern and another as a cyber security intern in our college, I have done Projects on MERN stack, Django and worked with various API and unity engine.I am the founder and current Google developer student club lead at our college.
+Due to cyber security, I have good debugging skills and importantly confidence to learn anything and make things work.
+
+Via this Opportunity, I am looking forward to enhancing my skills and working at this amazing organization.
+
+I hope you will refer me for this position,
+Thank You.
+
+Job-Description -{} f.e.2024 Graduate - Software Development Engineer
+JOB-ID: {} for example(293387)
+link - {job opening link} for example
+https://careers.spglobal.com/jobs/293387
+
+Resume Link -
+https://drive.google.com/file/d/1IAvPUVvLHME0L7S4rrjX5vcJ_qzOQKhd/view?usp=sharing
+
+Linkedin profile -
+https://www.linkedin.com/in/shrikrishna-umbare/
