@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.29bc8131.css",
-    "main.js": "/static/js/main.d5c58d88.js",
+    "main.js": "/static/js/main.72f8fef0.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/TrainBrain2.jpg": "/static/media/TrainBrain2.98348a0d62f7b67e11b2.jpg",
     "static/media/dr.PNG": "/static/media/dr.ad1bbdeff681aa19eeaf.PNG",
     "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/snake.PNG": "/static/media/snake.e6637500caf4579b0a1b.PNG",
-    "static/media/Resume_Shrikrishna_Umbare.pdf": "/static/media/Resume_Shrikrishna_Umbare.ad59f8f306f6d55aa5f5.pdf",
+    "static/media/Resume_Shrikrishna_Umbare.pdf": "/static/media/Resume_Shrikrishna_Umbare.83732640b2ec825c3dd8.pdf",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/pass.PNG": "/static/media/pass.b1a34fe5a88ee68ae38e.PNG",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
@@ -17,12 +17,12 @@
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
     "main.29bc8131.css.map": "/static/css/main.29bc8131.css.map",
-    "main.d5c58d88.js.map": "/static/js/main.d5c58d88.js.map",
+    "main.72f8fef0.js.map": "/static/js/main.72f8fef0.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29bc8131.css",
-    "static/js/main.d5c58d88.js"
+    "static/js/main.72f8fef0.js"
   ]
 }
